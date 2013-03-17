@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Sudoku
+Comment=Sudoku spēle
+Exec=sudoku --start
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Icon=/opt/sudoku/images/icon.png
+Categories=Game;
+StartupNotify=true
