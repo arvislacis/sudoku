@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# (CC BY-SA) Aija Trimdale
 import pygame, sys
 from math import*
 from time import*
@@ -16,8 +17,8 @@ for statuss_info in range(0,1):
 	#12 -instrukcija
 	statuss =0
 
-cimage = "/opt/sudoku/images/"
-cfont = "/opt/sudoku/fonts/font.otf"
+cimage = "/opt/sudokulv/images/"
+cfont = "/opt/sudokulv/fonts/font.otf"
 
 #-----Smadzenes!!!-----
 sudo = [[0 for row in xrange(9)] for col in xrange(9)] #Ģenerētais laukums, spēlē netiek mainīts
